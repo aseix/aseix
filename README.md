@@ -8,4 +8,4 @@ I have a __private account__ where I can share my code and ideas publicly. Pleas
 
 --> __*[💙💛](https://razomforukraine.org/)*__ <--
 
-![rdd13r](asset/img/rdd13r-v2-t.png)
+![rdd13r](assets/img/rdd13r-v2-t.png)
