@@ -7,3 +7,5 @@ I am [rdd13r](https://github.com/rdd13r) :us: and this is my professional accoun
 I have a __private account__ where I can share my code and ideas publicly. Please visit [rdd13r](https://github.com/rdd13r) to see what I am up to.
 
 --> __*[💙💛](https://razomforukraine.org/)*__ <--
+
+![rdd13r][asset/img/rdd13r-v2-t.png]
